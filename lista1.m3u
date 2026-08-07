@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Dailymotion Live" group-title="Streaming",Dailymotion Live
-https://cdndirector.dailymotion.com/cdn/live/video/xarufnm.m3u8?sec=s67oi8g_nGiqgJB5IfyONPS1mD-DcMlZt0cqOJTnh0g_TFGcW7JMVaN_Uul-o-QYhEBYKuTn_QcZB37-SdC-_5JcjT6hKjqSKZbx4Bf85zU&dmV1st=2059ac0b-9f58-cf72-cd42-d4669ec8e71d&dmTs=358306
+#EXTINF:-1 tvg-name="Video Vimeo HLS" group-title="Streaming",Video Vimeo HLS
+https://s1.vimeos.net/hls2/03/00011/3lrsrb8yg9r7_,n,h,.urlset/master.m3u8?t=Alc-t6802FpQMeAunuCK4l6VesvV0AtLxr5jmRQik_w&s=1786129672&e=43200&v=316053153&i=0.3&sp=0&fr=3lrsrb8yg9r7&r=e
