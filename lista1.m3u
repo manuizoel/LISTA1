@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="Unitel Santa Cruz" group-title="Bolivia",Unitel Santa Cruz
-https://cl-a9-p-e-pt11.cdn.mdstrm.com/live-stream/692b7e7ac84183fcf9e3462d/publish/media_1800.m3u8?aid=69132f19f5398246a0193eb6&dnt=true&uid=lBMrL7oUyGTdsioxaI3Ywq3RDlD6BFJO&sid=6G28LyKhZVy0Elypn90fVgjEqduydKVe&pid=XBXAv8zgt4cQVZAb8uqQODGJooOfrnMQ&ref=mdstrm.com&ext_pb=0&es=cl-a9-p-e-pt11.cdn.mdstrm.com&ote=1786211185492&ot=uQ_LiRlnIARIrDqF8zJ_aA&proto=https&pz=us&CMCD=cid%3D%22692b7e7ac84183fcf9e3462d%22%2Cmtp%3D65100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22XBXAv8zgt4cQVZAb8uqQODGJooOfrnMQ%22
+#EXTINF:-1 tvg-name="Dailymotion Live" group-title="Streaming",Dailymotion Live
+https://cdndirector.dailymotion.com/cdn/live/video/xarufnm.m3u8?sec=s67oi8g_nGiqgJB5IfyONPS1mD-DcMlZt0cqOJTnh0g_TFGcW7JMVaN_Uul-o-QYhEBYKuTn_QcZB37-SdC-_5JcjT6hKjqSKZbx4Bf85zU&dmV1st=2059ac0b-9f58-cf72-cd42-d4669ec8e71d&dmTs=358306
